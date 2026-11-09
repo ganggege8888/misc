@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.09.2500",
-  "apk": "https://ghproxy.net/https://github.com/ganggege8888/misc/releases/download/v2026.11.09.2500/qnys.apk",
-  "notes": "手机/平板可下载影视（拼完自动存「下载」目录）；修 ffmpeg 找不到；下载进度可见",
+  "version": "2026.11.10.0010",
+  "apk": "https://ghproxy.net/https://github.com/ganggege8888/misc/releases/download/v2026.11.10.0010/qnys.apk",
+  "notes": "前端换装版（Rio）：统一设计系统、底部迷你播放条、图片失败兜底、Cookie 说明折叠；接口与功能零丢失",
   "md5": ""
 }
