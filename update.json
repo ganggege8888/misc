@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.09.2300",
-  "apk": "https://ghproxy.net/https://github.com/ganggege8888/misc/releases/download/v2026.11.09.2300/qnys.apk",
-  "notes": "修复手机下载找不到文件（现在存到「文件管理→下载」）；线路自动测速选最快；播放器加播放列表/音量/收藏/歌词点击跳转",
+  "version": "2026.11.09.2400",
+  "apk": "https://ghproxy.net/https://github.com/ganggege8888/misc/releases/download/v2026.11.09.2400/qnys.apk",
+  "notes": "电影/电视剧卡片上直接点★收藏；收藏/记录入口在分类条最前面",
   "md5": ""
 }
