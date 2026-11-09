@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.08.2150",
-  "apk": "https://ghproxy.net/https://github.com/ganggege8888/misc/releases/download/v2026.11.08.2150/qnys.apk",
-  "notes": "新增：手机一键更新（自动下载安装）、返回不再重搜、成人搜索可翻页扩量、设置里看版本号",
+  "version": "2026.11.08.2240",
+  "apk": "https://ghproxy.net/https://github.com/ganggege8888/misc/releases/download/v2026.11.08.2240/qnys.apk",
+  "notes": "修复 GitHub 账号拼错（断用/更新清单拉不到）；一键更新、返回不重搜、成人翻页扩量都在",
   "md5": ""
 }
