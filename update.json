@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.09.2100",
-  "apk": "https://ghproxy.net/https://github.com/ganggege8888/misc/releases/download/v2026.11.09.2100/qnys.apk",
-  "notes": "音乐播放器重做（大封面/滚动歌词/上下曲/循环/音效），抖音热歌榜，可下载 MP3/FLAC/M4A",
+  "version": "2026.11.09.2200",
+  "apk": "https://ghproxy.net/https://github.com/ganggege8888/misc/releases/download/v2026.11.09.2200/qnys.apk",
+  "notes": "红队加固：封 SSRF、CORS 收紧、跨站 POST 拦截、分片缓存提速（重复播放快 278 倍）、缓存自动清理",
   "md5": ""
 }
