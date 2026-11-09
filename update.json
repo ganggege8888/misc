@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.09.2400",
-  "apk": "https://ghproxy.net/https://github.com/ganggege8888/misc/releases/download/v2026.11.09.2400/qnys.apk",
-  "notes": "电影/电视剧卡片上直接点★收藏；收藏/记录入口在分类条最前面",
+  "version": "2026.11.09.2500",
+  "apk": "https://ghproxy.net/https://github.com/ganggege8888/misc/releases/download/v2026.11.09.2500/qnys.apk",
+  "notes": "手机/平板可下载影视（拼完自动存「下载」目录）；修 ffmpeg 找不到；下载进度可见",
   "md5": ""
 }
