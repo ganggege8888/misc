@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.09.2200",
-  "apk": "https://ghproxy.net/https://github.com/ganggege8888/misc/releases/download/v2026.11.09.2200/qnys.apk",
-  "notes": "红队加固：封 SSRF、CORS 收紧、跨站 POST 拦截、分片缓存提速（重复播放快 278 倍）、缓存自动清理",
+  "version": "2026.11.09.2300",
+  "apk": "https://ghproxy.net/https://github.com/ganggege8888/misc/releases/download/v2026.11.09.2300/qnys.apk",
+  "notes": "修复手机下载找不到文件（现在存到「文件管理→下载」）；线路自动测速选最快；播放器加播放列表/音量/收藏/歌词点击跳转",
   "md5": ""
 }
