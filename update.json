@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.10.0100",
-  "apk": "https://ghproxy.net/https://github.com/ganggege8888/misc/releases/download/v2026.11.10.0100/qnys.apk",
-  "notes": "第一批 8 条最严重问题修复（锁拦截/成人暗道/翻页/B站/超时/并发/功能性自检）+ 音乐源修复",
+  "version": "2026.11.10.0200",
+  "apk": "https://ghproxy.net/https://github.com/ganggege8888/misc/releases/download/v2026.11.10.0200/qnys.apk",
+  "notes": "第二批 28 条：下载落盘续传查重、sid 穿越封堵、SSRF DNS 校验、静默失败留痕、缓存 LRU 与翻页污染修复",
   "md5": ""
 }
