@@ -1,8 +1,8 @@
 {
-  "version": "2026.11.10.0300",
-  "apk": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.10.0300/qnys.apk",
-  "apk2": "https://gh-proxy.com/https://github.com/ganggege8888/misc/releases/download/v2026.11.10.0300/qnys.apk",
-  "apk3": "https://github.com/ganggege8888/misc/releases/download/v2026.11.10.0300/qnys.apk",
-  "notes": "第三批 29 条小毛病修复；更新通道换成实测最快的镜像（29 秒下完）",
+  "version": "2026.11.10.0400",
+  "apk": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.10.0400/qnys.apk",
+  "apk2": "https://gh-proxy.com/https://github.com/ganggege8888/misc/releases/download/v2026.11.10.0400/qnys.apk",
+  "apk3": "https://github.com/ganggege8888/misc/releases/download/v2026.11.10.0400/qnys.apk",
+  "notes": "稳定性改进：源健康自检、主力源 17 个只增不减、更新通道换可用镜像",
   "md5": ""
 }
