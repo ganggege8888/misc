@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.13.1300",
-  "apk": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1300/qnys.apk",
-  "apk2": "https://gh-proxy.com/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1300/qnys.apk",
-  "apk3": "https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1300/qnys.apk",
-  "notes": "多部影片转圈修复：失效线路及时失败，同片同集自动切换已有线路；39 源全部保留。修复后续更新包重名导致下载失败。",
+  "version": "2026.11.13.1400",
+  "apk": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1400/qnys.apk",
+  "apk2": "https://gh-proxy.com/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1400/qnys.apk",
+  "apk3": "https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1400/qnys.apk",
+  "notes": "修复成人分类点加载更多后误显示已到底：后续页保留成人入口参数，39 个片源未删。",
   "md5": "",
   "size": 22248604,
-  "sha256": "d9bba0b3bc6b7496349a1aa5bf6ab7e26ba72260c3a73ab0ac1fe2a1ed75cb5b"
+  "sha256": "d40e287b8b9505d0b978dc8927c19ae2091883baa69c8581b4f93edfeed0c468"
 }
