@@ -2,7 +2,6 @@
   "version": "2026.11.13.1100",
   "apk": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1100/qnys.apk",
   "apk2": "https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1100/qnys.apk",
-  "apk3": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.0100/qnys.apk",
   "notes": "修复：① HTTP 协议退化（server_version/protocol_version 被打包脚本误改，已还原 HTTP/1.1）② 更新误报（前端上报版本，最新版不再提示更新）③ 更新镜像（apk 改回可用的 ghfast.top）。内容：38 源（新增天涯/非凡1/建安/量子2/创享/暴风2 + 成人艾旦/正品/桃花/妞妞）",
   "md5": "",
   "size": 22228460,
