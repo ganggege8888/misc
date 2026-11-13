@@ -1,9 +1,10 @@
 {
-  "version": "2026.11.13.1100",
-  "apk": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1100/qnys.apk",
-  "apk2": "https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1100/qnys.apk",
-  "notes": "修复：① HTTP 协议退化（server_version/protocol_version 被打包脚本误改，已还原 HTTP/1.1）② 更新误报（前端上报版本，最新版不再提示更新）③ 更新镜像（apk 改回可用的 ghfast.top）。内容：38 源（新增天涯/非凡1/建安/量子2/创享/暴风2 + 成人艾旦/正品/桃花/妞妞）",
+  "version": "2026.11.13.1200",
+  "apk": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1200/qnys.apk",
+  "apk2": "https://gh-proxy.com/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1200/qnys.apk",
+  "apk3": "https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1200/qnys.apk",
+  "notes": "稳定性：公网请求代理优先，39 源并发聚合，按源超时、缓存、旧缓存兜底与短时自动跳过；修复同词偶发 0 条、分类漏接和播放首段卡顿。资源：原 38 源全部保留，新增实测通过的厂长源。",
   "md5": "",
-  "size": 22228460,
-  "sha256": "46ec64b7588a270c50abb5d210ced8c80531009c930e8a3cfacb8e2e290fb7f6"
+  "size": 22232660,
+  "sha256": "b92a496fee4be5809b587ff45eda3dd4593c2d6bba247c352e31b1662086f4c4"
 }
