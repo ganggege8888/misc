@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.13.1200",
-  "apk": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1200/qnys.apk",
-  "apk2": "https://gh-proxy.com/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1200/qnys.apk",
-  "apk3": "https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1200/qnys.apk",
-  "notes": "稳定性：公网请求代理优先，39 源并发聚合，按源超时、缓存、旧缓存兜底与短时自动跳过；修复同词偶发 0 条、分类漏接和播放首段卡顿。资源：原 38 源全部保留，新增实测通过的厂长源。",
+  "version": "2026.11.13.1300",
+  "apk": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1300/qnys.apk",
+  "apk2": "https://gh-proxy.com/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1300/qnys.apk",
+  "apk3": "https://github.com/ganggege8888/misc/releases/download/v2026.11.13.1300/qnys.apk",
+  "notes": "多部影片转圈修复：失效线路及时失败，同片同集自动切换已有线路；39 源全部保留。修复后续更新包重名导致下载失败。",
   "md5": "",
-  "size": 22232660,
-  "sha256": "b92a496fee4be5809b587ff45eda3dd4593c2d6bba247c352e31b1662086f4c4"
+  "size": 22248604,
+  "sha256": "d9bba0b3bc6b7496349a1aa5bf6ab7e26ba72260c3a73ab0ac1fe2a1ed75cb5b"
 }
