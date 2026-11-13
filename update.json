@@ -1,8 +1,9 @@
 {
-  "apk2": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.0100/qnys.apk",
-  "md5": "",
-  "apk3": "https://github.com/ganggege8888/misc/releases/download/v2026.11.13.0100/qnys.apk",
-  "apk": "https://gh-proxy.com/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.0100/qnys.apk",
+  "version": "2026.11.13.0100",
+  "apk": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.0100/qnys.apk",
+  "apk2": "https://github.com/ganggege8888/misc/releases/download/v2026.11.13.0100/qnys.apk",
+  "apk3": "https://gh-proxy.com/https://github.com/ganggege8888/misc/releases/download/v2026.11.13.0100/qnys.apk",
   "notes": "新增 10 个采集源（天涯/非凡1/建安/量子2/创享/暴风2 + 成人艾旦/正品/桃花/妞妞），38 源 37 健康，搜索/详情/播放/拉流全链路验证通过",
-  "version": "2026.11.13.0100"
+  "md5": "",
+  "size": 22224364
 }
