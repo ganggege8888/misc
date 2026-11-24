@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.24.1200",
-  "apk": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.24.1200/qnys.apk",
-  "apk2": "https://gh-proxy.com/https://github.com/ganggege8888/misc/releases/download/v2026.11.24.1200/qnys.apk",
-  "apk3": "https://github.com/ganggege8888/misc/releases/download/v2026.11.24.1200/qnys.apk",
-  "notes": "搜索放开（普通入口也能搜到成人内容，排在后面）；音乐三源并行+默认无损FLAC；会员Cookie按平台分存；源健康度落盘自动排序；搜索等待加长到13秒，结果更稳；支持HEAD请求。",
-  "md5": "90bec932ce180fe6d8844694e0a9a852",
+  "version": "2026.11.24.1201",
+  "apk": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.24.1201/qnys.apk",
+  "apk2": "https://gh-proxy.com/https://github.com/ganggege8888/misc/releases/download/v2026.11.24.1201/qnys.apk",
+  "apk3": "https://github.com/ganggege8888/misc/releases/download/v2026.11.24.1201/qnys.apk",
+  "notes": "成人内容严格隔离：影视/漫画/音乐入口搜不到成人片，只有进入成人板块搜索才返回；来源为成人专源的条目一律按成人处理。",
+  "md5": "04379bf11597d4e02740af866e5e7913",
   "size": 22253152,
-  "sha256": "4015c84eb7c8cb78e48b5ecdca087aa7be98ba2f64ab8162821bb5795fd1fe9c"
+  "sha256": "ac89b56ec134cec05022c1ba0f647c6d58259a390bbae02aebd544c2c4f4571c"
 }
