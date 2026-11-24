@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.24.1201",
-  "apk": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.24.1201/qnys.apk",
-  "apk2": "https://gh-proxy.com/https://github.com/ganggege8888/misc/releases/download/v2026.11.24.1201/qnys.apk",
-  "apk3": "https://github.com/ganggege8888/misc/releases/download/v2026.11.24.1201/qnys.apk",
-  "notes": "成人内容严格隔离：影视/漫画/音乐入口搜不到成人片，只有进入成人板块搜索才返回；来源为成人专源的条目一律按成人处理。",
-  "md5": "04379bf11597d4e02740af866e5e7913",
+  "version": "2026.11.24.1202",
+  "apk": "https://ghfast.top/https://github.com/ganggege8888/misc/releases/download/v2026.11.24.1202/qnys.apk",
+  "apk2": "https://gh-proxy.com/https://github.com/ganggege8888/misc/releases/download/v2026.11.24.1202/qnys.apk",
+  "apk3": "https://github.com/ganggege8888/misc/releases/download/v2026.11.24.1202/qnys.apk",
+  "notes": "修手机更新同步不了：填过的电脑地址连不上时自动回退官方源。成人内容仍严格隔离（影视/漫画/音乐入口搜不到）。",
+  "md5": "7744aa576d3235c8dd14d1608d1e5d4b",
   "size": 22253152,
-  "sha256": "ac89b56ec134cec05022c1ba0f647c6d58259a390bbae02aebd544c2c4f4571c"
+  "sha256": "8e416d77c447b7b977657bbdf6ae5c04370882669ba61fbf47213453f01fc8b9"
 }
